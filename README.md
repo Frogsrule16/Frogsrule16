@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Frogsrule16
+- 👀 I’m interested in ... block/text programing
+- 🌱 I’m currently learning ... node.js
+- 📫 How to reach me ... seb.p.ryan@gmail.com
